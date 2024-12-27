@@ -1,0 +1,6 @@
+projectKey=srikar
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=srikar
+ceTaskId=bb01966e-289b-4515-aab7-9866432a9992
+ceTaskUrl=http://localhost:9000/api/ce/task?id=bb01966e-289b-4515-aab7-9866432a9992
