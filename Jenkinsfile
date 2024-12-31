@@ -16,7 +16,7 @@ stage('build'){
      stage('deploy')
      {
        steps{
-         echo"deploying
+         echo"deploying"
        }
      }
    }
